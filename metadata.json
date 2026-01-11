@@ -1,0 +1,5 @@
+{
+  "name": "CLOS Protocol: The Gatekeeper",
+  "description": "An adversarial prompt engineering game where you must convince an AI gatekeeper to reveal hidden secrets across increasingly difficult levels.",
+  "requestFramePermissions": []
+}
